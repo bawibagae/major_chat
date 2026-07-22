@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://bawibagae.github.io/major_chat",
-  "proxy": "http://localhost:8080",
+  "proxy": "https://major-chat-8er7.onrender.com",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
