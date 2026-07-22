@@ -9,7 +9,7 @@ import Profile from "./profile/Profile";
 
 function App() {
   return (
-    <BrowserRouter basename="/major_chat">
+    <BrowserRouter>
       <Routes>
         <Route path="/" element={<Main />} />
         <Route path="/chat" element={<ChatPage />} />
